@@ -1,0 +1,24 @@
+{
+  "name": "holydayzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "holiday",
+    "app"
+  ],
+  "author": "Vitor Junior",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.25",
+    "typescript": "^4.6.3"
+  }
+}
